@@ -6,4 +6,4 @@ For each multiple of 3, print "Fizz" instead of the number
 
 For each multiple of 5, print "Buzz" instead of the number
 
-For numbers which are multiples of 3 AND 5, print "FizzBuzz" insread of the number
+For numbers which are multiples of 3 AND 5, print "FizzBuzz" instead of the number
