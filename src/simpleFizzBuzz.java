@@ -9,7 +9,7 @@ public class simpleFizzBuzz {
     public static void main(String[] args) {
         // Here we will call "printFizzBuzz' and assign a value for 'n' being 100
         // You can change this value at any time
-        printFizzBuzz(200);
+        printFizzBuzz(100);
 
     }
     public static void printFizzBuzz(int n) {
